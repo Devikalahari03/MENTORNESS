@@ -2,8 +2,9 @@
 
 # PIZZA SALES ANALYSIS SQL PROJECT
 
-![Uploading image.png…]()
 
+
+![image](https://github.com/user-attachments/assets/56840a8c-9ff1-45f1-99cb-948655da82d9)
 
 
 
